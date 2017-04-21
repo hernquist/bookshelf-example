@@ -4,5 +4,5 @@ This is an example of creating a many-to-many association with Bookshelf.
 
 ## Instructions
 
-Just run the `test-all.sh` script to test it out.
+Clone this repository and then run the `test-all.sh` script to test it out.
 
