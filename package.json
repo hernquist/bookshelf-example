@@ -1,0 +1,16 @@
+{
+  "name": "books-authors",
+  "version": "1.0.0",
+  "main": "seeds.js",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "start": "node seeds.js"
+  },
+  "dependencies": {
+    "bookshelf": "^0.10.3",
+    "bookshelf-cascade-delete": "^2.0.1",
+    "knex": "^0.12.6",
+    "pg": "^6.1.2"
+  }
+}
